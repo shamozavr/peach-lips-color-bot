@@ -4,20 +4,19 @@
   "description": "telegram quiz bot to determine ideal color palette",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shamozavr/peach-lips-color-bot.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "https://github.com/shamozavr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shamozavr/peach-lips-color-bot/issues"
   },
   "homepage": "https://github.com/shamozavr/peach-lips-color-bot#readme",
-  "type": "module",
   "dependencies": {
     "node-telegram-bot-api": "^0.65.1"
   }
